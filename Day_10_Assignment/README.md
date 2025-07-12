@@ -155,10 +155,6 @@ Potential improvements for the application:
 
 This application is created for educational purposes as part of the Python Tutorial series.
 
-## Author
-
-Created as part of Day 10 Assignment in the Python Tutorial series.
-
 ---
 
 **Note**: This application demonstrates basic Streamlit concepts including session state management, user input handling, data display, and application control features. 
