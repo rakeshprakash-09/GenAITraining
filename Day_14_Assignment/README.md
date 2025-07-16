@@ -37,10 +37,3 @@ This is a simple Streamlit application that counts the number of vowels in a giv
 ## Requirements
 - Python 3.7+
 - Streamlit
-
-## Screenshot
-*(Add a screenshot here after running the app)*
-
----
-
-**Author:** Your Name 
