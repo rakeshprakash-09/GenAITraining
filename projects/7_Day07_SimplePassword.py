@@ -1,3 +1,4 @@
+import streamlit as st
 import re
 
 def check_password(password):
@@ -17,12 +18,16 @@ def check_password(password):
     
     return errors
 
-if __name__ == "__main__":
-    pwd = input("Enter password: ")
-    result = check_password(pwd)
+
+st.title("Simple Password Validator")
+
+password = st.text_input("Enter password:", type="password")
+
+if st.button("Check Password"):
+    result = check_password(password)
     if not result:
-        print("Password is valid.")
+        st.success("Password is valid.")
     else:
-        print("Password is invalid:")
+        st.error("Password is invalid:")
         for err in result:
-            print("-", err)
+            st.write(f"- {err}")

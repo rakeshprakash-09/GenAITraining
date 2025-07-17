@@ -13,3 +13,4 @@ if st.button("Calculate Sum"):
 # Add a button to stop the Streamlit app
 if st.button("Stop Application"):
     st.stop()
+

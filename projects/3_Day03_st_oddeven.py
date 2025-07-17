@@ -23,3 +23,4 @@ if input_numbers:
 
     except ValueError:
         st.error("❌ Please enter only integers separated by commas (e.g., 1, 2, 3)")
+

@@ -6,6 +6,7 @@ def count_vowels(text):
 
 st.title("Vowel Counter App")
 
+
 st.write("Enter a word or sentence to count the number of vowels:")
 
 user_input = st.text_input("Type here:")
