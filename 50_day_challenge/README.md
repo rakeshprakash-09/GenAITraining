@@ -52,6 +52,7 @@ Below are the current projects included in this challenge:
 | 13  | List Maximum                | Finds the largest number in a list. |
 | 14  | Vowel Counter               | Counts the number of vowels in a word or sentence. |
 | 15  | Name Formatter              | Splits a full name into first, middle, and second name. |
+| 16  | Word Reverser              | Reverses every word in a sentence while keeping the word order the same. |
 
 > **Note:** This list will be updated daily as new programs are added.
 
