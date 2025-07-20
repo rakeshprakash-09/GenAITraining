@@ -54,6 +54,7 @@ Below are the current projects included in this challenge:
 | 15  | Name Formatter              | Splits a full name into first, middle, and second name. |
 | 16  | Word Reverser              | Reverses every word in a sentence while keeping the word order the same. |
 | 17  | Initial Extractor          | Extracts and displays the initials from a user's full name. |
+| 18  | Simple Cipher              | Shifts each letter in a word by 1 position in the alphabet. |
 
 > **Note:** This list will be updated daily as new programs are added.
 
