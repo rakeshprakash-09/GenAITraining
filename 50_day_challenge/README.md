@@ -55,6 +55,7 @@ Below are the current projects included in this challenge:
 | 16  | Word Reverser              | Reverses every word in a sentence while keeping the word order the same. |
 | 17  | Initial Extractor          | Extracts and displays the initials from a user's full name. |
 | 18  | Simple Cipher              | Shifts each letter in a word by 1 position in the alphabet. |
+| 19  | Email Username Extractor   | Extracts the username (part before '@') from an email address. |
 
 > **Note:** This list will be updated daily as new programs are added.
 
