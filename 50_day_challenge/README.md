@@ -56,6 +56,7 @@ Below are the current projects included in this challenge:
 | 17  | Initial Extractor          | Extracts and displays the initials from a user's full name. |
 | 18  | Simple Cipher              | Shifts each letter in a word by 1 position in the alphabet. |
 | 19  | Email Username Extractor   | Extracts the username (part before '@') from an email address. |
+| 20  | Text Statistics           | Counts the number of characters, words, and sentences in a given paragraph. |
 
 > **Note:** This list will be updated daily as new programs are added.
 
