@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu          # or faiss-gpu
+pypdf              # PDF parsing
+python-docx        # DOC parsing
+sentence-transformers  # for local embeddings
+tiktoken           # token counting (chunk size)
