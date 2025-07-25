@@ -58,6 +58,7 @@ Below are the current projects included in this challenge:
 | 19  | Email Username Extractor   | Extracts the username (part before '@') from an email address. |
 | 20  | Text Statistics           | Counts the number of characters, words, and sentences in a given paragraph. |
 | 21  | Phone Formatter              | Formats a 10-digit number as (XXX) XXX-XXXX and shows an error for invalid input. |
+| 22  | Area Calculator              | Calculates the area of a circle, rectangle, or triangle based on user input. |
 
 > **Note:** This list will be updated daily as new programs are added.
 
